@@ -32,3 +32,13 @@ site sobre o mundo do futebol
         </div>
 </body>
 </html>
+
+.cabecalho {
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
